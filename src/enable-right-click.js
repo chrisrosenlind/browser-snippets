@@ -1,4 +1,4 @@
-// Bookmark this to override pages that disabled right-click
+// Bookmark this snippet to override pages that disabled right-click
 javascript: (() => {
   document.addEventListener(
     'contextmenu',
