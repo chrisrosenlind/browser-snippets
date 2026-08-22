@@ -1,4 +1,4 @@
-// Bookmark this snippet to be able to right click and open an instagram images source
+// Bookmark this snippet to open instagram src on right click
 javascript: (() => {
   document.addEventListener('contextmenu', (ev) => {
     const elems = document.elementsFromPoint(ev.clientX, ev.clientY);
